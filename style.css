@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(235, 255, 229);
+}
+
+.main-div {
+    margin: 0 auto;
+    width: 80%;
+    min-width: 600px;
+    background-color: aliceblue;
+    border: 1px solid rgb(12, 155, 155);
+}
+
+.header-text {
+    text-align: center;
+}
