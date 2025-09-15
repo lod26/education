@@ -6,5 +6,6 @@ function clearStr (str) {
 
 
 console.log("hello");
+console.log("Hi hi hi");
 
 clearStr(hello) 
