@@ -5,4 +5,6 @@ function clearStr (str) {
 }
 
 
+console.log("hello");
+
 clearStr(hello) 
