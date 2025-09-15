@@ -4,4 +4,5 @@ function clearStr (str) {
   str = "asd"
 }
 
+
 clearStr(hello) 
