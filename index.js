@@ -9,3 +9,4 @@ console.log("hello");
 console.log("Hi hi hi");
 
 clearStr(hello) 
+console.log('Hi hi hi')
